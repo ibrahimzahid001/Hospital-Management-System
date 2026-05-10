@@ -3,9 +3,7 @@
 
 ## Student Information
 - Name: Ibrahim Zahid
-- Roll Number: 25L-2556
 - Course: Object Oriented Programming (OOP)
-- Section: BCS-2A
 - Semester: Spring 2026
 
 ## About the Project
